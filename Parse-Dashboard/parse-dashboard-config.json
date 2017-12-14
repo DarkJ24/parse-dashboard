@@ -1,13 +1,22 @@
 {
   "apps": [{
-    "serverURL": "http://localhost:4000/parse",
-    "appId": "siRn7HdTj68Wj0aRbVaXMEyUul0zDTere1mtXWo4",
-    "masterKey": "BFZH8e3wKrmmiYc2sUJi2eZgbQjNY9FMK41ukgS9",
-    "javascriptKey": "6VKGqfRjpsDYjHBpl3kViJkehUAwCptBxtvs1ZqV",
-  	"clientKey" : "SVqtPcTKPI2hcUJcFUPjAh1iNuezocQwt5X95kMW",
-  	"restKey": "B92p1coPEenybam1zBaJCGfwmWXkoz65lRzCcn2R",
-    "appName": "Tapp Develop",
-    "iconName": "heroku"
+    "serverURL": "https://tedxpagos2017parseprod.herokuapp.com/parse",
+    "appId": "ttdC2DBI6w59voIr1nrmsE4Pf580oT3KOkApKPBe",
+    "masterKey": "0maeUOFbsCTdwMIMFxD9Z84byk6OAkjeUYUQVFFH",
+    "javascriptKey": "BRbnWDoE90d7ZsTnq0iBuHr487T0GL8JLHrmLkTq",
+    "clientKey": "6JU1cpI087JirF9jxzvCXPpjagDZbc7vRwsIFEn1",
+    "restKey": "gNM3QBzMSmC108SwjFwGAXqfknXQlR5CythKzEvM",
+    "appName": "TEDx Pagos 2017 Prod",
+    "production": true
+  },{
+    "serverURL": "https://tedx2018-parse.herokuapp.com/parse",
+    "appId": "ttdC2DBI6w59voIr1nrmsE4Pf580oT3KOkApKPBe",
+    "masterKey": "0maeUOFbsCTdwMIMFxD9Z84byk6OAkjeUYUQVFFH",
+    "javascriptKey": "BRbnWDoE90d7ZsTnq0iBuHr487T0GL8JLHrmLkTq",
+    "clientKey": "6JU1cpI087JirF9jxzvCXPpjagDZbc7vRwsIFEn1",
+    "restKey": "gNM3QBzMSmC108SwjFwGAXqfknXQlR5CythKzEvM",
+    "appName": "TEDx Pagos 2018 Prod",
+    "production": true
   }],
   "iconsFolder": "icons"
 }
