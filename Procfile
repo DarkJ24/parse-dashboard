@@ -1,1 +1,1 @@
-web: bin/parse-dashboard
+web: npm start
